@@ -8,7 +8,7 @@ def selection_sort_1(arr):
 def selection_sort_2(arr):
 	n = len(arr)
 	for j in range(0,n):
-		if(arr[j]<arr[i]):
+		if(arr[j]<arr[0]):
 			tmp = arr[0]
 			arr[0] = arr[j]
 			arr[j] = tmp
