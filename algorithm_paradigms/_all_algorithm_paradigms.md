@@ -1,6 +1,6 @@
 # Greedy (탐욕 알고리즘)
 - 각 단계에서 현재 상태에서의 최선 선택을 고르는 류의 알고리즘
-- 최적해가 보장되지 않음
+- 빠르지만, 국소최적해를 구함.(전역최적해가 보장되지 않음)
 
 대표적인 예시 : 거스름돈 문제(change-making problem), 부분배낭 문제(fractional-knapsack problem), Dijkstra, Kruskal, Prim
 
