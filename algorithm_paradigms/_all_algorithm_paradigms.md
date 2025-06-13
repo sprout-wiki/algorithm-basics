@@ -34,3 +34,5 @@ Bottom-up DP 와 Top-down DP 가 존재함.
 대표적인 예시 : Knapsack, 피보나치, 최장 공통 부분 수열(LCS), 최장 증가 부분 수열(LIS)
 
 # Backtracking (백트래킹)
+Brute Force 를 하되, 규칙 등으로 인해 불가능한 수는 제거(prune)하고 세는 법.
+- 기본적으로 완전탐색(Brute Force)이다
